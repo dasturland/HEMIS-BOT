@@ -1,4 +1,4 @@
-🤖 HEMIS Telegram Bot (Python)
+# 🤖 HEMIS Telegram Bot (Python)
 Ushbu bot talabalar uchun HEMIS tizimidagi ma'lumotlarni (dars jadvali, baholar, davomat) Telegram orqali qulay tarzda olish imkonini beradi.
 
 ✨ Xususiyatlari
